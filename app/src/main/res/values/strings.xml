@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MiContacto</string>
+
+    <string name="titulo_formulario">Datos del contacto</string>
+    <string name="titulo_detalle">Detalle del contacto</string>
+    <string name="titulo_ayuda">Ayuda</string>
+
+    <!-- inicio -->
+    <string name="bienvenida">📱 MiContacto</string>
+    <string name="subtitulo_main">Registra un contacto y comunícate con él directo desde la app.</string>
+    <string name="sin_contacto">Aún no hay un contacto registrado</string>
+    <string name="btn_registrar">📝 Registrar contacto</string>
+    <string name="btn_editar">✏️ Editar contacto</string>
+    <string name="btn_ver_detalle">👤 Ver detalle y acciones</string>
+    <string name="btn_ayuda">❓ Ayuda</string>
+    <string name="desc_foto">Foto del contacto</string>
+
+    <!-- formulario -->
+    <string name="btn_tomar_foto">📷 Tomar foto</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_telefono">Teléfono (ej: +56912345678)</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="hint_sitio_web">Sitio web (opcional)</string>
+    <string name="btn_guardar">💾 Guardar</string>
+
+    <!-- detalle -->
+    <string name="label_telefono">📞 Teléfono</string>
+    <string name="label_correo">📧 Correo</string>
+    <string name="label_direccion">📍 Dirección</string>
+    <string name="label_sitio_web">🌐 Sitio web</string>
+    <string name="sin_sitio_web">Sin sitio web</string>
+    <string name="titulo_acciones">⚡ Acciones</string>
+    <string name="btn_llamar">📞 Llamar</string>
+    <string name="btn_correo">📧 Enviar correo</string>
+    <string name="btn_mapa">📍 Ver en el mapa</string>
+    <string name="btn_web">🌐 Abrir sitio web</string>
+
+    <!-- ayuda -->
+    <string name="ayuda_p1">📝 ¿Cómo registro un contacto?</string>
+    <string name="ayuda_r1">En la pantalla principal toca \"Registrar contacto\", completa los datos y presiona Guardar. Si algún dato está malo, sale un aviso en ese campo.</string>
+    <string name="ayuda_p2">📷 ¿Para qué es la foto?</string>
+    <string name="ayuda_r2">Es opcional. La app pide permiso para usar la cámara y la foto queda guardada en la galería, en la carpeta Pictures/MiContacto.</string>
+    <string name="ayuda_p3">📲 ¿Qué hacen los botones del detalle?</string>
+    <string name="ayuda_r3">Abren otras apps del teléfono: el marcador para llamar, la app de correo, el mapa con la dirección y el navegador con el sitio web.</string>
+    <string name="ayuda_p4">⚠️ ¿Y si no tengo una de esas apps?</string>
+    <string name="ayuda_r4">La app avisa con un mensaje y no se cae. En el caso del mapa, si no está Google Maps se abre la dirección en el navegador.</string>
+    <string name="version_app">Versión 1.0 - Prototipo 2</string>
+</resources>
